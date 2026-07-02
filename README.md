@@ -1,5 +1,7 @@
 # 🏆 Habit Tracker
 
+[![Download APK](https://img.shields.io/badge/⬇️%20Descargar%20APK-v1.0.0-brightgreen?style=for-the-badge)](https://expo.dev/artifacts/eas/FiYqMVK_a5LKRjYZYrTBYj1CIPD4jIDTlZ4VJudi3Bw.apk)
+
 Una aplicación móvil de seguimiento de hábitos construida con **React Native** y **Expo**, diseñada para ayudarte a construir rutinas positivas, evitar hábitos negativos y medir tu progreso diario.
 
 ---
@@ -105,9 +107,17 @@ habit-tracker/
 
 ---
 
-## 📱 Capturas de Pantalla
+## 📥 Descarga e Instalación
 
-> *Próximamente*
+### APK para Android
+
+> **[⬇️ Descargar APK v1.0.0](https://expo.dev/artifacts/eas/FiYqMVK_a5LKRjYZYrTBYj1CIPD4jIDTlZ4VJudi3Bw.apk)**
+
+**Pasos para instalar en tu dispositivo Android:**
+1. Descarga el APK desde el enlace de arriba
+2. En tu teléfono ve a **Ajustes → Seguridad → Instalar apps desconocidas** y actívalo
+3. Abre el archivo `.apk` descargado e instala
+4. ¡Listo! Busca **Habit Tracker** en tu menú de apps
 
 ---
 
