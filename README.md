@@ -121,6 +121,15 @@ habit-tracker/
 
 ---
 
+## 📱 Capturas de Pantalla
+
+| Dashboard | Configuración | Analítica |
+|:---------:|:-------------:|:---------:|
+| ![Dashboard](./screenshots/home.jpg) | ![Configuración](./screenshots/settings.jpg) | ![Analítica](./screenshots/stats.jpg) |
+| Tira semanal y frases motivacionales | Temas de color y fondo | Calendario y estadísticas |
+
+---
+
 ## 📄 Licencia
 
 Este proyecto fue desarrollado como proyecto universitario (PROJET II — UNI).
